@@ -1,9 +1,8 @@
 # Maze-Generator
 > Generator Labirin dengan Algoritma BFS &amp; DFS
 
->  Berikut tampilan sistem yang di buat.
+###  Berikut tampilan sistem yang di buat.
 ![alt text](https://github.com/januriawan/Maze-Generator/blob/master/Maze%20Generator/Capture.PNG)
-
 
 ![alt text](https://github.com/januriawan/Maze-Generator/blob/master/Maze%20Generator/Capture2.PNG)
 
