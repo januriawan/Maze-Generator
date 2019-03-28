@@ -1,0 +1,9 @@
+D:\Dokumen\Project Kecerdasan Buatan\Maze Generator\Maze Generator\bin\Debug\Maze Generator.exe
+D:\Dokumen\Project Kecerdasan Buatan\Maze Generator\Maze Generator\bin\Debug\Maze Generator.pdb
+D:\Dokumen\Project Kecerdasan Buatan\Maze Generator\Maze Generator\obj\x86\Debug\Maze Generator.csprojResolveAssemblyReference.cache
+D:\Dokumen\Project Kecerdasan Buatan\Maze Generator\Maze Generator\obj\x86\Debug\Maze_Generator.AboutBox1.resources
+D:\Dokumen\Project Kecerdasan Buatan\Maze Generator\Maze Generator\obj\x86\Debug\Maze_Generator.Form1.resources
+D:\Dokumen\Project Kecerdasan Buatan\Maze Generator\Maze Generator\obj\x86\Debug\Maze_Generator.Properties.Resources.resources
+D:\Dokumen\Project Kecerdasan Buatan\Maze Generator\Maze Generator\obj\x86\Debug\Maze Generator.csproj.GenerateResource.Cache
+D:\Dokumen\Project Kecerdasan Buatan\Maze Generator\Maze Generator\obj\x86\Debug\Maze Generator.exe
+D:\Dokumen\Project Kecerdasan Buatan\Maze Generator\Maze Generator\obj\x86\Debug\Maze Generator.pdb
